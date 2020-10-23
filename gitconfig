@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = serge@osipoffphoto.com
-	name = Sergey Osipov
+	name = sergey osipov
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
